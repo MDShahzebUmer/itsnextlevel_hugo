@@ -1,7 +1,7 @@
 ---
 title: "Richest Man in Babylon"
 date: 2022-09-22T03:41:51+05:30
-draft: true
+draft: false
 categories:
 - Development
 - VIM
