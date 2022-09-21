@@ -1,6 +1,6 @@
 
 
-baseURL = 'http://example.org/'
+baseURL = 'https://itsnextlevel.me/'
 languageCode = 'en-us'
 title = 'Shahzeb Umer'
 theme = "PaperMod"
