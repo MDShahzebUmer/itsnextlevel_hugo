@@ -1,4 +1,58 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+
+
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+title = 'Shahzeb Umer'
+theme = "PaperMod"
+
+
+
+[params.homeInfoParams]
+Title = "Hi there"
+Content = "I am creating content around note taking, design & development"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "link"
+
+[[params.socialIcons]]
+name = "Facebook"
+url = "link2"
+[[params.socialIcons]]
+name = "Discord"
+url = "link2"
+[[params.socialIcons]]
+name = "Twitter"
+url = "link2"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+title = "Archives"
+url = "/archives/"
+weight = -110
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+title = "Categories"
+url = "/categories/"
+weight = -110
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+title = "tags"
+url = "/tags/"
+weight = -110
+
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+title = "search"
+url = "/search/"
+weight = -110
