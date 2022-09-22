@@ -3,8 +3,8 @@ title: "Richest Man in Babylon"
 date: 2022-09-22T03:41:51+05:30
 draft: false
 categories:
-- Development
-- VIM
+- Money
+- Wealth
 description: Let's understand the secret of wealth from the Richest Man in Babylon
 slug: richest-man-in-babylon
 keywords: richest man in babylon wealth money
@@ -12,7 +12,6 @@ tags:
 - wealth
 - money
 - book
-background: https://images.pexels.com/photos/589840/pexels-photo-589840.jpeg?cs=srgb&dl=pexels-valiphotos-589840.jpg&fm=jpg
 ---
 
 ![Babylon](https://i.pinimg.com/originals/2b/a6/3a/2ba63ac80a7d73da4a07a51fcbc6bea8.jpg)

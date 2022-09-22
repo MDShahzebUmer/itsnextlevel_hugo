@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://itsnextlevel.me/posts/one-more-post/</loc>
-    <lastmod>2022-09-21T15:32:28+05:30</lastmod>
+    <loc>https://itsnextlevel.me/tags/book/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/categories/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/categories/development/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/tags/money/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
   </url><url>
     <loc>https://itsnextlevel.me/posts/</loc>
-    <lastmod>2022-09-21T15:32:28+05:30</lastmod>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/posts/richest-man-in-babylon/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
   </url><url>
     <loc>https://itsnextlevel.me/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/tags/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/categories/vim/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/tags/wealth/</loc>
+    <lastmod>2022-09-22T03:41:51+05:30</lastmod>
+  </url><url>
+    <loc>https://itsnextlevel.me/posts/one-more-post/</loc>
     <lastmod>2022-09-21T15:32:28+05:30</lastmod>
   </url><url>
     <loc>https://itsnextlevel.me/tags/design/</loc>
@@ -18,9 +42,6 @@
     <lastmod>2022-09-21T15:06:39+05:30</lastmod>
   </url><url>
     <loc>https://itsnextlevel.me/tags/note-taking/</loc>
-    <lastmod>2022-09-21T15:06:39+05:30</lastmod>
-  </url><url>
-    <loc>https://itsnextlevel.me/tags/</loc>
     <lastmod>2022-09-21T15:06:39+05:30</lastmod>
   </url><url>
     <loc>https://itsnextlevel.me/tags/world/</loc>
@@ -33,8 +54,6 @@
     <lastmod>2022-09-21T14:54:08+05:30</lastmod>
   </url><url>
     <loc>https://itsnextlevel.me/archives/</loc>
-  </url><url>
-    <loc>https://itsnextlevel.me/categories/</loc>
   </url><url>
     <loc>https://itsnextlevel.me/search/</loc>
   </url>
